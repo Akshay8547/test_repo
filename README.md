@@ -1,9 +1,2 @@
-# test_repo
+simple project for readme
 
-## slxwkwlkdpwo
-dummy repo for testing
-
-e[ktrptk
-
-codex
---------
